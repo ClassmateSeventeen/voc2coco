@@ -1,5 +1,6 @@
 # voc2coco
 
+```shell
 coco
 |______annotations # 存放标注信息
 |        |__instances_train.json
@@ -16,3 +17,4 @@ coco
 |              |__val.txt
 |              |__test.txt
 |        |__JPEGImages
+```
